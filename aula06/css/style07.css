@@ -13,12 +13,12 @@ body {
     font-size: 30px;
 }
 /* ------------------------------- */
-.p-20em {
+.p-em-ex1 {
     font-size: 1.25em;
 }
-.p-25em {
+.p-em-ex2 {
     font-size: 1.56em;
 }
-.p-30em {
+.p-em-ex3 {
     font-size: 1.875em;
 }
